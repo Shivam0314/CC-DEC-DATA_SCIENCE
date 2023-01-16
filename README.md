@@ -1,6 +1,10 @@
 # CC-DEC-DATA-SCIENCE
 
-[CodeClause_Internship_Offer Letter.pdf](https://github.com/Shivam1431/CC-DEC-DATA_SCIENCE/files/10300100/CodeClause_Internship_Offer.Letter.pdf) ​
+[CodeClause_Internship_Offer Letter.pdf](https://github.com/Shivam1431/CC-DEC-DATA_SCIENCE/files/10300100/CodeClause_Internship_Offer.Letter.pdf)
+
+[CodeClause_Internship_Completion Letter.pdf](https://github.com/Shivam1431/CC-DEC-DATA_SCIENCE/files/10423848/CodeClause_Internship_Completion.Letter.pdf)
+
+[CodeClause_Letter of Recommendation.pdf](https://github.com/Shivam1431/CC-DEC-DATA_SCIENCE/files/10423851/CodeClause_Letter.of.Recommendation.pdf)
 
 LinkedIN offer Letter : https://bit.ly/3Vqhp4F
 
